@@ -1,5 +1,7 @@
 # Super Trunfo Pokemon
 Super Trunfo Pokemon Criado durante a #imersaoDEV ALURA 2022
+<br>
+<img src="/src/imagens/Captura de tela.png" width="400px">
 
 ## Instrutores da Alura nessa Imersão:
 * <a href="https://www.linkedin.com/in/paulosilveira/">Paulo Silveira</a>
