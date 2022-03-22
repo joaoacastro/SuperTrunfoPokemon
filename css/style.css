@@ -102,6 +102,17 @@ h2 {
     background-color: rgb(128, 128, 128);
 }
 
+.button-sortear,
+.button-jogar,
+.button-jogarDenovo {
+    cursor: pointer;
+}
+
+.button-sortear:hover {
+    background-color: rgb(88, 88, 88);
+    color: white;
+    font-weight: bold;
+}
 .--spacing {
     margin-left: 2.5rem;
 }
